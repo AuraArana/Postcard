@@ -1,0 +1,37 @@
+.Postcard{
+    height: 380px;
+    width: 500px;
+    border: 1px solid black;
+}
+.header{
+    height: 70px;
+    width: 500px;
+    border: 1px solid red;
+
+}
+.body{
+    height: 230px;
+    width: 500px;
+    border: 1px solid purple
+}
+.body-left{
+    width: 250px;
+    height: 230px;
+    border: 1px solid green;
+}
+.body-right{
+    height: 230px;
+    width: 250px;
+    border: 1px solid blue;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+img{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 50px;
+    width: 50px;
+
+}
